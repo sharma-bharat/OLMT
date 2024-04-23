@@ -1,0 +1,2 @@
+#Variable Startyear endyear Startday endday averaging period factor add offset  pft obs  obs_err
+FATES_GPP     0001    0060            1     1            60             1    0   0   -999     -999
